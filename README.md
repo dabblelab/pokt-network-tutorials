@@ -1,10 +1,10 @@
-Pockt.Network Tutorials
+Pokt.Network Tutorials
 ---
 
 This repository will provide code samples and written resources related to Dabble Lab video tutorials on [Pokt.Network](https://pokt.network/) related topics. 
 
 ## About Pokt.Network
-Pocket network makes it easy for every developer to interact with any blockchain. With just a few lines of code, developers can "blockchain enable" almost any application with little or no prior blockchain development experience. 
+Poket network makes it easy for every developer to interact with any blockchain. With just a few lines of code, developers can "blockchain enable" almost any application with little or no prior blockchain development experience. 
 
 ## Planned Tutorials
 
