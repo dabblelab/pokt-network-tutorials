@@ -2,6 +2,8 @@
 
 ## Videos
 
+[View the videos on YouTube](https://www.youtube.com/playlist?list=PLQm9P1qjjvxux2KBZcKdymZb5ifhs5cMR)
+
 |Video|Topic|Raw|Edited|
 |-----|-----|------|------|
 |1|[POKT Node Setup](./1-pokt-node-setup.md)|32:12||
