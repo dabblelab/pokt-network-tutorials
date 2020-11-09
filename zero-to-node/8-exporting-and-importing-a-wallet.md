@@ -2,7 +2,7 @@
 
 _**Video Tutorial**_
 
-<a href="https://https://www.youtube.com/watch?v=cTmakxNKTFk"><img src="http://img.youtube.com/vi/cTmakxNKTFk/maxresdefault.jpg" alt="Tutorial Video" height="480" /></a>
+<a href="https://www.youtube.com/watch?v=cTmakxNKTFk"><img src="http://img.youtube.com/vi/cTmakxNKTFk/maxresdefault.jpg" alt="Tutorial Video" height="480" /></a>
 
 _**Video Transcript**_
 
