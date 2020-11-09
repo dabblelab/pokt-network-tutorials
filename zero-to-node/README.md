@@ -4,7 +4,7 @@
 
 [View the videos on YouTube](https://www.youtube.com/playlist?list=PLQm9P1qjjvxux2KBZcKdymZb5ifhs5cMR)
 
-|Video|Topic|Raw|Edited|
+|Video|Transcript|Raw|Edited|
 |-----|-----|------|------|
 |1|[POKT Node Setup](./1-pokt-node-setup.md)|32:12||
 |2|[Update to v0.5.1-rc](./2-update-to-rc-0-5-1.md)|03:02||
